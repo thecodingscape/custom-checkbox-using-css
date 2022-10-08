@@ -8,8 +8,8 @@
 ------------------------------------------------------------------------
 
 #### 📚 Resources:
-▶️ Google Fonts: https://fonts.google.com
-▶️ Fontawesome Libraries: https://cdnjs.com/libraries/font-awesome
+▶️ Google Fonts: https://fonts.google.com </br>
+▶️ Fontawesome Libraries: https://cdnjs.com/libraries/font-awesome </br>
 ▶️ Website: https://codingscape.info/
 
 
